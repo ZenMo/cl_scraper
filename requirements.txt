@@ -1,0 +1,11 @@
+Mako==0.9.1
+MarkupSafe==0.18
+PyYAML==3.10
+SQLAlchemy==0.9.2
+Unidecode==0.04.14
+alembic==0.6.3
+beautifulsoup4==4.3.2
+dataset==0.5.0
+python-slugify==0.0.7
+requests==2.2.1
+thready==0.1.2
